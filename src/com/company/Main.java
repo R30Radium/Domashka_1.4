@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         //Задание 1
-
+        //r
         int x = 1;
         while (x <= 10) {
             System.out.printf("%3d" + (x % 10 == 0 ? "\n" : ""), x);
